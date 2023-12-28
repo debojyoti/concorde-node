@@ -1,0 +1,134 @@
+{
+  "days": [
+          {
+            "day": 1,
+            "speakers": [
+              {
+                "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/cleveland+wheels+and+brakes.png",
+                "companyTitle": "Parker Cleveland Wheels & Brakes",
+                "companySubtitle": "Care & Maintenance of Cleveland Wheels & Brakes",
+                "companyDescription": [
+                  {
+                    "title": "On and off maintenance checks for Cleveland wheels and brakes.",
+                    "points": [
+                      "Explain the working of external floating brake caliper assembly and the individual components.",
+                      "Explain the workings of wheel assembly and the individual components.",
+                      "Talk about minimum lining and disc thickness.",
+                      "Explain surface repairs for corrosion and recommended Mil-Spec repair for Aluminum and Magnesium Cleveland’s wheels and brakes.",
+                      "Talk about the recommended Mil-Spec for primers and paints for Cleveland Wheels and brakes.",
+                      "Talk about recommended lubricants for wheel bearings.",
+                      "Explain when and when not to use anti seize on the tie bolts along torque values.",
+                      "Talk about the reasons why you should always condition organic and metallic linings with the disc."
+                    ]
+                  }
+                ],
+                "presenterName": "Vernon Rogers – Business Development Team Representative",
+                "presenterDescription": "Vernon is a Business Development Team Representative for Cleveland Wheels & Brakes and Director of Marketing and Technical Support with Parker Hannifin Corporation/Aircraft Wheel & Brake Division, which is the manufacturer of Cleveland Wheels & Brakes. Vernon has a bachelor’s degree is Business Management and over 35 years of experience with Cleveland Wheels & Brakes. Vernon has a technical background with experience in aviation and the automotive industry.  He has held a current repairman’s license since January 2009.  He is also an active Board of Director’s Member for Harrison Cultural Center since 2015.",
+                "presenterWebsite": "www.parker.com/cleveland",
+                "presenterEmail": "vrodgers@parker.com"
+              },
+              {
+                "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/Hartzell_Engine_Technologies_-Logo-Color-RGB.png",
+                "companyTitle": "Hartzell Engine Technologies LLC",
+                "companySubtitle": "",
+                "companyDescription": "",
+                "presenterName": "Time Gauntt -  Director of Product Support",
+                "presenterDescription": "Active in the aviation industry for 40+ years as a general aviation. Mechanic, IA, AMT Part 147 instructor and various technical support related positions",
+                "presenterWebsite": "www.hartzell.aero",
+                "presenterEmail": "tgauntt@hartzell.aero "
+              },
+              {
+                "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/Lycoming_Engines-Logo.png",
+                "companyTitle": "Lycoming Engines",
+                "companySubtitle": "Engine Care and Maintenance",
+                "companyDescription": "",
+                "presenterName": "Dennis Coulbourn",
+                "presenterDescription": "Experienced Aviation professional with a demonstrated history of working in the aviation industry. Sales, distribution and technical professional with experience as a Regional Sales Manager, Technical Representative and Aircraft Technician.",
+                "presenterWebsite": "https://www.lycoming.com",
+                "presenterEmail": "dcoulbourn@lycoming.com"
+              },
+              {
+                "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/Eagle_Fuel_Cells.png",
+                "companyTitle": "Eagle Fuel Cells",
+                "companySubtitle": "Overview of components, leak diagnosis, removal and installation techniques",
+                "companyDescription": [
+                  {
+                    "title": "",
+                    "points": [
+                      "Diagnosing & Tracing problems ",
+                      "Removal helps",
+                      "Cavity preparation ",
+                      "Installation helps",
+                      "Questions & Answers "
+                    ]
+                  }
+                ],
+                "presenterName": "Kurt Hartwig – Owner and General Manager",
+                "presenterDescription": "Kurt is an FAA licensed technician with over 40 years of fuel cell repair and installation experience. He has spoken for the FAA and PAMA at IA refreshers across the country for over 25 years. He is a member of the Wisconsin Aviation Trades Association, PAMA, AOPA, ABS, EAA & CAP. He served as Airport Commissioner and chairman from 2000 to 2010. He is currently the owner and General Manager for Eagle Fuel Cells an FAA and EASA Certified Repair Station and the owner of Storehouse LLC a TSO / PMA manufacturer.",
+                "presenterWebsite": "www.eaglefuelcells.com",
+                "presenterEmail": "kurt@eaglefuelcells.com"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "speakers": [
+              {
+                "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/Tempest+Aero+Group.png",
+                "companyTitle": "Tempest Aero",
+                "companySubtitle": "Fuel System – Marvel Schebler Aircraft Carburetors & RSA Fuel Injection Systems with Tempest Aero.",
+                "companyDescription": [
+                  {
+                    "title": "Marvel  Schebler Aircraft Carburetors",
+                    "points": [
+                      "Operation of float carburetors",
+                      "Maintaining and troubleshooting MSA Carburetors"
+                    ]
+                  },
+                  {
+                    "title": "RSA Fuel Injection Systems",
+                    "points": [
+                      "Operation of mechanical RSA fuel injection systems",
+                      "Maintaining and troubleshooting RSA Fuel Injection Systems"
+                    ]
+                  }
+                ],
+                "presenterName": "Alan Jesmer – Sales / Marketing Manager / Product Support ",
+                "presenterDescription": "Alan has been with Precision Airmotive for 27 years.",
+                "presenterWebsite": "www.tempestaero.com",
+                "presenterEmail": "alanj@precisionairmotive.com"
+              },
+              {
+                "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/G-N-Engines.png",
+                "companyTitle": "G-N-Engines",
+                "companySubtitle": "",
+                "companyDescription": "",
+                "presenterName": "",
+                "presenterDescription": "",
+                "presenterWebsite": "",
+                "presenterEmail": ""
+              },
+              {
+                "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/FAA_image.png",
+                "companyTitle": "Federal Aviation",
+                "companySubtitle": "",
+                "companyDescription": "",
+                "presenterName": "",
+                "presenterDescription": "",
+                "presenterWebsite": "",
+                "presenterEmail": ""
+              },
+              {
+                "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/ConcordeAircraftBattery_Logo.png",
+                "companyTitle": "Concorde Battery Corporation",
+                "companySubtitle": "Aircraft Battery Airworthiness",
+                "companyDescription": "The battery is the heart of the aircraft. Concorde presents the varied battery technologies in the marketplace, safety, lead acid aircraft battery ratings, commissioning of lead acid aircraft batteries, and the maintenance process. Including the best practices of servicing: capacity testing, charging, maximizing the life of your battery. Also, cleaning & storage, installation eligibility. ",
+                "presenterName": "Chris Holder – Eastern US Sales Manager",
+                "presenterDescription": "After earning a private pilot’s license in 1983, Chris entered the aviation field a year later as an avionics weapons technician in the US Marine Corps, serving eight years. He entered the aircraft parts distribution business in 1995 with Aerospace Products International, managing the Southeast for 15 years.  In 1998, Chris founded and currently hosts the Carolina’s IA Renewal & Safety Symposium, providing recertification and safety clinics for hundreds of aircraft mechanics each year.  After a short stint with Engine Components Inc., Chris joined Concorde Battery Corporation as the Eastern US Sales Manager in 2011.",
+                "presenterWebsite": "www.concordebattery.com",
+                "presenterEmail": "cholder@concordebattery.com"
+              }
+            ]
+          }
+        ]
+}

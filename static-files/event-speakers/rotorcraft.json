@@ -1,0 +1,140 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "speakers": [{
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/Hartzell_Engine_Technologies_-Logo-Color-RGB.png",
+        "companyTitle": "Hartzell Engine Technologies LLC",
+        "companySubtitle": "",
+        "companyDescription": "",
+        "presenterName": "Time Gauntt -  Director of Product Support",
+        "presenterDescription": "Active in the aviation industry for 40+ years as a general aviation. Mechanic, IA, AMT Part 147 instructor and various technical support related positions",
+        "presenterWebsite": "www.hartzell.aero",
+        "presenterEmail": "tgauntt@hartzell.aero "
+      },{
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/rotorcraft/Sikorsky_Aircraft_Logo.png",
+        "companyTitle": "Sikorsky Aircraft",
+        "companySubtitle": "Sikorsky Aircraft Technical Briefing",
+        "companyDescription": "",
+        "presenterName": "Peter Hansen",
+        "presenterDescription": [
+          "2011-2016 - Manager of the Sikorsky Coatesville Pennsylvania completions flight testing and customer delivery center for 5 years.",
+          "2007 – 2011 – A&P mechanic Sikorsky Coatesville Pennsylvania completions center. ",
+          "2001 – 2007 – National Aeronautics Co."
+        ],
+        "presenterWebsite": "https://www.lockheedmartin.com",
+        "presenterEmail": "peter.j.hansen@lmco.com"
+      },{
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/rotorcraft/aero_space.png",
+        "companyTitle": "Champion Aerospace",
+        "companySubtitle": "Review of Ignition Systems for Main Engines and APUs",
+        "companyDescription": "Course will cover best practices when servicing ignition systems, types of systems and tooling.",
+        "presenterName": "Richard Busch",
+        "presenterDescription": [
+          "20 years at Champion Aerospace.",
+          "12 years of aircraft sales with Fairchild-Dornier, Gulfstream Aerospace and Saab Aircraft",
+          "Instrument rated pilot",
+          "BS degree from Embry Riddle Aeronautical University",
+          "MBA from Marymount University"
+        ],
+        "presenterWebsite": "https://www.championaerospace.com",
+        "presenterEmail": "richardbusch@champaero.com"
+      },{
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/FAA_image.png",
+        "companyTitle": "Federal Aviation",
+        "companySubtitle": "",
+        "companyDescription": "",
+        "presenterName": "",
+        "presenterDescription": "",
+        "presenterWebsite": "",
+        "presenterEmail": ""
+      }]
+    },
+    {
+      "day": 2,
+      "speakers": [ {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/ConcordeAircraftBattery_Logo.png",
+        "companyTitle": "Concorde Battery Corporation",
+        "companySubtitle": "Aircraft Battery Airworthiness",
+        "companyDescription": "The battery is the heart of the aircraft. Concorde presents the varied battery technologies in the marketplace, safety, lead acid aircraft battery ratings, commissioning of lead acid aircraft batteries, and the maintenance process. Including the best practices of servicing: capacity testing, charging, maximizing the life of your battery. Also, cleaning & storage, installation eligibility. ",
+        "presenterName": "Chris Holder – Eastern US Sales Manager",
+        "presenterDescription": "After earning a private pilot’s license in 1983, Chris entered the aviation field a year later as an avionics weapons technician in the US Marine Corps, serving eight years. He entered the aircraft parts distribution business in 1995 with Aerospace Products International, managing the Southeast for 15 years.  In 1998, Chris founded and currently hosts the Carolina’s IA Renewal & Safety Symposium, providing recertification and safety clinics for hundreds of aircraft mechanics each year.  After a short stint with Engine Components Inc., Chris joined Concorde Battery Corporation as the Eastern US Sales Manager in 2011.",
+        "presenterWebsite": "www.concordebattery.com",
+        "presenterEmail": "cholder@concordebattery.com"
+      },
+      {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/rotorcraft/Leonardo.jpg",
+        "companyTitle": "Leonardo Helicopter Division",
+        "companySubtitle": "Then and Now – And the Future",
+        "companyDescription": [
+          {
+            "title": "",
+            "points": [
+              "Introduction",
+              "A brief History of Helicopter Development – from the auto gyro to the modern helicopter",
+              "Technological milestones in helicopter development",
+              {
+                "label": "Where we are now",
+                "subLabels": [
+                  "HUMS",
+                  "Avionics",
+                  "Airframe improvements",
+                  "Reduction in electronics"
+                ]
+              },
+              {
+                "label": "Where are we going?",
+                "subLabels": [
+                  "Tiltrotor",
+                  "E-Vtol",
+                  "Electric tail rotors",
+                  "Integrated flight decks",
+                  "Pilotless",
+                  "Artificial Intelligence"
+                ]
+              }
+            ]
+          }
+        ],
+        "presenterName": "Phil Coghlan",
+        "presenterDescription": "Phil Coghlan is originally from Philadelphia but spend his childhood in Canada and the UK. He received a commission in the United States Navy through the Navy Reserve Officer Training Corps at the University of Notre Dame.  Following graduation, he reported to Naval Air Station (NAS) Pensacola for flight training as a Naval Aviator receiving his wings on April 21, 1989.  He received training in the Sikorsky CH53E at NAS Norfolk and reported for duty in the fleet at NAS Sigonella Sicily where he saw service in the First Gulf War and the Balkans. He would do two more tours at NAS Sigonella, as well as three instructor tours in the Navy Training Command and a staff tour in Izmir Turkey. He retired from Active Duty in 2007 and came to work at Leonardo helicopters as a Customer Support and Services Manager supporting all Agusta helicopters in Latin America, and the U.S. Gulf of Mexico Oil and Gas Fleet.  In 2013 he became the regional Sales Manager for the North East United States; he continues in this role to this day.                 He received a Bachelor’s in Architecture from the University of Notre Dame and a Master of Arts in National Security and Strategic Studies from the U.S. Naval War College in Newport, Rhode Island. He holds a Commercial Pilots Certificate (Single Engine Airplane and Rotorcraft and Helicopters) as well as Instrument Rating in both. He has flown the Beechcraft T-34 Mentor, the Bell TH57 (B206) Sea Ranger, the Sikorsky CH53E Super Sea Stallion as well as the MH53E Sea Dragon, and the Raytheon T6 Texan II. ",
+        "presenterWebsite": "https://www.leonardocompany.com",
+        "presenterEmail": "philip.coghlan@leonardocompany.us"
+      },
+      {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/turbine/NDT_TB3__download.png",
+        "companyTitle": "NDT Consulting",
+        "companySubtitle": "",
+        "companyDescription": "",
+        "presenterName": "",
+        "presenterDescription": "",
+        "presenterWebsite": "",
+        "presenterEmail": ""
+      },
+      {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/rotorcraft/standard_aero.png",
+        "companyTitle": "StandardAero",
+        "companySubtitle": "Maintenance and Care of the Rolls-Royce 250 Engine",
+        "companyDescription": [
+          {
+            "title": "",
+            "points": [
+              "Basic description of engine.",
+              "Different series of RR M250 engines and their applications.",
+              "Tips on common maintenance and inspection tasks including fuel nozzle service, hot section inspection and compressor case half inspection (series 2 engines)."
+            ]
+          }
+        ],
+        "presenterName": "Ron Geall",
+        "presenterHeader": "Ron currently works as Rolls-Royce M250 and Safran Arriel field service rep and RR M250 authorized course instructor.  He supports Rolls-Royce with any issues on new engines delivered to Bell Helicopter",
+        "presenterDescription": [
+          "Based in Montreal, Quebec, Canada.",
+          "Will be celebrating 20 years with StandardAero’s helicopter division this November – 23 years total experience on Rolls-Royce 250 series engines.",
+          "Licensed A&P mechanic (power plant rating)."
+        ],
+        "presenterWebsite": "https://www.standardaero.com",
+        "presenterEmail": "ron.geall@standardaero.com"
+      }]
+    }
+  ]
+}

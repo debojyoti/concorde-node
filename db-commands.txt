@@ -1,0 +1,2 @@
+USE concorde_events_management
+DROP TABLE EVENTS;

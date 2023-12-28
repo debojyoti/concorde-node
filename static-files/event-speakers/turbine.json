@@ -1,0 +1,94 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "speakers": [{
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/turbine/Logo-Michelin_com_horizontal.png",
+        "companyTitle": "Michelin Aircraft Tire",
+        "companySubtitle": "Tire Maintenance and Impact on Aircraft Safety",
+        "companyDescription": [{
+          "title": "Aircraft Safety is a top priority, but there is one component that is often overlooked with varying consequences as a result: Aircraft Tires. Aircraft tires operate at the most extreme conditions for load and speed.  They are extremely well engineered and tested, and when operated properly are relatively dependable and last an acceptable life.",
+          "points": []
+        }, {
+          "title": "This course focuses on the importance of tire maintenance on aircraft safety and is designed for anyone who comes in contact with or uses aircraft tires including but not limited to pilots, maintenance technicians, flight line ground teams and flight school students.",
+          "points": []
+        },{
+          "title": "It reviews common causes for tire related events, consequences of tire under and over-inflation, recommended inflation schedule and compensating for ambient temperature effects.",
+          "points": []
+        }],
+        "presenterName": "Randy Hedrick, Customer Support Engineer",
+        "presenterDescription": "I have been with Michelin for over 22 years. I spent 10 years in the production environment for ultra-high-performance tires. During that time, I held many roles to include area responsible for quality, systems troubleshooter, and process technician. I then moved into a tire design role where I spent 4 ½ years as a designer inside of the plant and another 4 ½ years as central designer at the Michelin Research and Development Center. I have been a Customer Support Engineer in the Aircraft department for 3 years. As a Customer Support Engineer, I provide service to both Commercial Regional as well as General Aviation. Some of the services provided includes technical performance reviews, training, inspections, in-service evaluations, and audits. Prior to Michelin, I was a jet engine mechanic on the C- 141 aircraft in the United States Air Force. Aviation has always been a love of mine and I have enjoyed being back in the aviation industry.",
+        "presenterWebsite": "https://aircraft.michelin.com/",
+        "presenterEmail": "randy.hedrick@michelin.com"
+      }, {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/FAA_image.png",
+        "companyTitle": "Federal Aviation",
+        "companySubtitle": "",
+        "companyDescription": "",
+        "presenterName": "",
+        "presenterDescription": "",
+        "presenterWebsite": "",
+        "presenterEmail": ""
+      }, {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/turbine/TAE49.jpg",
+        "companyTitle": "TAE Aerospace",
+        "companySubtitle": "Basic TPE331 Servicing",
+        "companyDescription": "",
+        "presenterName": "Bob Vrabel",
+        "presenterDescription": "Bob Vrabel has 42 years of experience with Gas Turbine engines. First in the US Navy on aero-derivatives on Spruance Class Destroyers. Then he spent 17 years with Garrett/AlliedSignal/Honeywell as a Senior Instructor on the TPE331 family of engines. Additional duties included being lead instructor of aero-derivative products after the acquisition of Textron/Lycoming Turbine products in the early 90’s. He was also backup instructor for the Lycoming legacy Turbofan products. During this time, he also self-taught to become a graphic artist and publisher. In 2001 Bob left Honeywell to open his own business and is the President and CEO of AIMplus, LLC. Providing the world with training on gas turbines in the Aircraft, Industrial and Marine industries. Bob is also the Training Coordinator and Primary Instructor for TAE Aerospace in their Scottsdale, Arizona facility. This is who he is representing today. Bob is 60 years old and lives with his wife Patti in Ewa Beach, Hawaii. They have been married for 21 years. They have between them 5 children and 4 grandchildren.",
+        "presenterWebsite": "https://www.taeaerospace.com",
+        "presenterEmail": "bob.vrabel@taeaerospace.com"
+      }, {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/turbine/NDT_TB3__download.png",
+        "companyTitle": "NDT Consulting",
+        "companySubtitle": "",
+        "companyDescription": "",
+        "presenterName": "",
+        "presenterDescription": "",
+        "presenterWebsite": "",
+        "presenterEmail": ""
+      }]
+    },
+    {
+      "day": 2,
+      "speakers": [
+      {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/piston/ConcordeAircraftBattery_Logo.png",
+        "companyTitle": "Concorde Battery Corporation",
+        "companySubtitle": "Aircraft Battery Airworthiness",
+        "companyDescription": "The battery is the heart of the aircraft. Concorde presents the varied battery technologies in the marketplace, safety, lead acid aircraft battery ratings, commissioning of lead acid aircraft batteries, and the maintenance process. Including the best practices of servicing: capacity testing, charging, maximizing the life of your battery. Also, cleaning & storage, installation eligibility. ",
+        "presenterName": "Chris Holder – Eastern US Sales Manager",
+        "presenterDescription": "After earning a private pilot’s license in 1983, Chris entered the aviation field a year later as an avionics weapons technician in the US Marine Corps, serving eight years. He entered the aircraft parts distribution business in 1995 with Aerospace Products International, managing the Southeast for 15 years.  In 1998, Chris founded and currently hosts the Carolina’s IA Renewal & Safety Symposium, providing recertification and safety clinics for hundreds of aircraft mechanics each year.  After a short stint with Engine Components Inc., Chris joined Concorde Battery Corporation as the Eastern US Sales Manager in 2011.",
+        "presenterWebsite": "www.concordebattery.com",
+        "presenterEmail": "cholder@concordebattery.com"
+      }, {
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/turbine/COLLINS+LOGO+WITH+GOODRICH+DE-ICING+logo.png",
+        "companyTitle": "Goodrich De-Icing  - Collins Aerospace",
+        "companySubtitle": "Installation, Repair and Maintenance of Pneumatic De-Icers",
+        "companyDescription": "The course includes basic information on the function, care, maintenance and installation of pneumatic de-icers. This includes fundamental information on the mechanics involved with ice removal, installation procedures, preventive maintenance, and general repair procedures.",
+        "presenterName": "Ken Heath ",
+        "presenterDescription": "Ken Heath has over 15 years of experience with Collins Aerospace (Goodrich De-Icing). He has worked primarily in a business development role that includes product development, product line management and technical support within the de-icing, water systems and heated composites product lines. His current responsibilities include sales and support of Commercial Transport, Regional, Business and General Aviation aftermarket de-icing and specialty heated products.   Ken works with distribution, airlines and end-use customers globally to identify and fulfill customer needs, conduct training and participate in industry events as a subject matter expert.",
+        "presenterWebsite": "www.goodrichdeicing.com ",
+        "presenterEmail": "ken.heath@collins.com "
+      },{
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/turbine/2560px-Hutchinson_(Unternehmen)_logo.svg.png",
+        "companyTitle": "HUTCHINSON",
+        "companySubtitle": "",
+        "companyDescription": "",
+        "presenterName": "",
+        "presenterDescription": "",
+        "presenterWebsite": "",
+        "presenterEmail": ""
+      },{
+        "logoLink": "https://dexterous-static-assets.s3.us-west-1.amazonaws.com/concorde-assets/turbine/Dassault_Falcon_Jet+(1).png",
+        "companyTitle": "DASSAULT FALCON JET",
+        "companySubtitle": "",
+        "companyDescription": "",
+        "presenterName": "",
+        "presenterDescription": "",
+        "presenterWebsite": "",
+        "presenterEmail": ""
+      }]
+    }
+  ]
+}

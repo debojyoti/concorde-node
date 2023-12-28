@@ -1,0 +1,26 @@
+{
+  "PISTON_MORNING": {
+    "webinar_id": 85017114254,
+    "slotId": "c3607a89-428d-11ed-86c9-02d8ffc96043"
+  },
+  "PISTON_EVENING": {
+    "webinar_id": 85048247800,
+    "slotId": "c3608536-428d-11ed-86c9-02d8ffc96044"
+  },
+  "TURBINE_MORNING": {
+    "webinar_id": 85333545642,
+    "slotId": "c27e11eb-428b-11ed-86c9-02d8ffc96043"
+  },
+  "TURBINE_EVENING": {
+    "webinar_id": 84521041337,
+    "slotId": "c27e1ea6-428b-11ed-86c9-02d8ffc96044"
+  },
+  "ROTORCRAFT_MORNING": {
+    "webinar_id": 87159784173,
+    "slotId": "811dacc8-428e-11ed-86c9-02d8ffc96043"
+  },
+  "ROTORCRAFT_EVENING": {
+    "webinar_id": 89749512792,
+    "slotId": "811db7d4-428e-11ed-86c9-02d8ffc96044"
+  }
+}
